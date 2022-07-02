@@ -27,9 +27,3 @@ def removeDuplicates(nums) -> int:
             index += 1
     return index
 ```
-
----
-
-<br>
-<img src="https://wingware.com/images/blog/quick-select/quick-select-1.gif" alt="Code" width="300"/>
-<sup>this GIF has nothing to do with the project I just thought it was cool</sup>
