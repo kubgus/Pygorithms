@@ -1,3 +1,5 @@
+# 26. Remove Duplicates from Sorted Array
+
 def removeDuplicates(nums) -> int:
     curr = -101
     index = 0
