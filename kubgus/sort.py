@@ -1,6 +1,6 @@
 def sort(nums):
     run = True
-    while run == True:
+    while run:
         curr = -99999999999999  # lowest number that can be in the array
         finished = True
         for index, num in enumerate(nums):
