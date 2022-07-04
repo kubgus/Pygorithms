@@ -9,7 +9,7 @@ The algorithms are done by me, so they aren't going to be super efficient.
 Feel free to use them, though...  
 <br>
 ## Goals
-<i>Progress: <b>4</b></i>  
+<i>Progress: <b>6</b></i>  
 - [x] 1 algorithm  
 - [ ] 10 algorithms  
 - [ ] 20 algorithms  
