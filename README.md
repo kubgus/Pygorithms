@@ -4,10 +4,12 @@
 A little repository I'm going to be working on for the next couple of weeks. (probably)  
 It's basically a collection of algorithms in Python.  
 <br>
+
 ## It's my code
 The algorithms are done by me, so they aren't going to be super efficient.  
 Feel free to use them, though...  
 <br>
+
 ## Goals
 <i>Progress: <b>6</b></i>  
 - [x] 1 algorithm  
@@ -15,6 +17,7 @@ Feel free to use them, though...
 - [ ] 20 algorithms  
 - [ ] 30 algorithms  
 <br>
+
 ## Example
 ```py
 def removeDuplicates(nums) -> int:
