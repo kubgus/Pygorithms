@@ -11,9 +11,9 @@ Feel free to use them, though...
 <br>
 
 ## Goals
-<i>Progress: <b>6</b></i>  
+<i>Progress: <b>10</b></i>  
 - [x] 1 algorithm  
-- [ ] 10 algorithms  
+- [x] 10 algorithms  
 - [ ] 20 algorithms  
 - [ ] 30 algorithms  
 <br>
